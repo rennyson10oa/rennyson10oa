@@ -1,9 +1,11 @@
-### Hi there 👋
-
+### Hi bro 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 [![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats)
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+
 <!--
 **rennyson10oa/rennyson10oa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
