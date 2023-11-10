@@ -1,6 +1,6 @@
 ### Hi bro 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/kawaii-panda-YrJp9LFIDkwms" width="100"/>
 </div>
 ![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
