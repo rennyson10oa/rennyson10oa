@@ -1,6 +1,6 @@
 ### Hi bro 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpnMnNsYThscGpsMTg5eXFoZjdyaDdibHJ3cTJpdDQ2Y3BieXNkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrJp9LFIDkwms/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh2cG51OXZ5N3g5OGt1bWl1dmtnMjFiYTV0N3U5MnFkMHF1cGo2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="300"/>
 </div>
 
 ![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
