@@ -3,6 +3,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh2cG51OXZ5N3g5OGt1bWl1dmtnMjFiYTV0N3U5MnFkMHF1cGo2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="300"/>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-rennyson-26199a214/L">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
