@@ -1,9 +1,12 @@
 ### Hi bro 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/kawaii-panda-YrJp9LFIDkwms.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpnMnNsYThscGpsMTg5eXFoZjdyaDdibHJ3cTJpdDQ2Y3BieXNkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrJp9LFIDkwms/giphy.gif" width="100"/>
 </div>
+
 ![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+
 [![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
