@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 [![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats)
 <!--
