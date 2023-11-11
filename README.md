@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-rennyson-26199a214/L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-rennyson-26199a214/L">
+  <a href="https://www.youtube.com/channel/UCY-4owCz3R4RbWBp2cyXliQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-rennyson-26199a214/L">
+  <a href="https://twitter.com/Amongasusca">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
