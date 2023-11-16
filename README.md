@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
-[![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Rennyson100a)](https://github.com/anuraghazra/github-readme-stats)
+[![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rennyson100a)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rennyson10oa/rennyson10oa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
