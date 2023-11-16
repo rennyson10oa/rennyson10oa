@@ -14,13 +14,13 @@
 </div>
 </div>
 
-
+<a href="https://wakatime.com/@018bb698-6762-4cdb-b33b-bdc68a776a04"><img src="https://wakatime.com/badge/user/018bb698-6762-4cdb-b33b-bdc68a776a04.svg" alt="Total time coded since Nov 9 2023" /></a>
 
 ![Rennyson's GitHub stats](https://github-readme-stats.vercel.app/api?username=rennyson10oa&show_icons=true&theme=radical&show=reviews)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
-[![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rennyson100a)](https://github.com/anuraghazra/github-readme-stats)
+[![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Rennyson100a)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **rennyson10oa/rennyson10oa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
