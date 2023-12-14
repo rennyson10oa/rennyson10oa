@@ -1,4 +1,12 @@
 <div id="header" align="center">
+  <style>
+    .title{
+      text-align: center;
+      color: #010101;
+      
+    }
+  </style>
+  <a id="title"> Hi bro </a>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh2cG51OXZ5N3g5OGt1bWl1dmtnMjFiYTV0N3U5MnFkMHF1cGo2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif" width="250"/>
 
   <div id="badges">
@@ -21,6 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennyson10oa)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 [![Rennyson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rennyson100a)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rennyson10oa/rennyson10oa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
