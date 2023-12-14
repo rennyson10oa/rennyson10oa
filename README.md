@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <div id="title" align="center">
     <h2> Hi bro </h2>
-    <p>I am José Rennyson, a **FullStack Developer** based out of Brazil currently looking for a job.</p>
+    <p>I am José Rennyson, a FullStack Developer based out of Brazil currently looking for a job.</p>
   </div>
 
   
